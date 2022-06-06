@@ -1,4 +1,4 @@
-# restkonrobeta
+# RESTKonro Beta
 use flask python framework and peewee ORM 
 future task :
  1. dynamical API
